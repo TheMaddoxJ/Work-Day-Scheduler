@@ -22,5 +22,10 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-The following animation demonstrates the application functionality:
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
+The following animation demonstrates the application functionality: https://drive.google.com/file/d/16CTLWMoIWtwMsn6GvohSmDzma4WMbXGq/view
+
+https://user-images.githubusercontent.com/123782105/228036724-f38c8750-69dc-4c5b-9342-ef3fdaa71ef8.mp4
+
+## URL's
+Deployed URL: https://themaddoxj.github.io/Work-Day-Scheduler/ <BR>
+GitHub URL: https://github.com/TheMaddoxJ/Work-Day-Scheduler
