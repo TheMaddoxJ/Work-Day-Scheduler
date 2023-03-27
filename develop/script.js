@@ -47,10 +47,10 @@ else{
 }});
 saveBtn[i].previousElementSibling.value = localStorage.getItem(saveBtn[i].dataset.hour)
 if(saveBtn[i].dataset.hour < hours){
-  saveBtn[i].previousElementSibling.style.backgroundColor='red'
+  saveBtn[i].previousElementSibling.style.backgroundColor='gray'
 }
 else if(saveBtn[i].dataset.hour == hours){
-  saveBtn[i].previousElementSibling.style.backgroundColor='gray'
+  saveBtn[i].previousElementSibling.style.backgroundColor='red'
 }
 else{
   saveBtn[i].previousElementSibling.style.backgroundColor='green'
